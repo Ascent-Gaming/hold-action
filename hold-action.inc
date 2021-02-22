@@ -1,8 +1,8 @@
 #include <a_samp>
 #include <progress2>
-#include <YSI\y_timers>
-#include <YSI\y_colours>
-#include <YSI\y_hooks>
+#include <YSI_Coding\y_timers>
+#include <YSI_Server\y_colours>
+#include <YSI_Coding\y_hooks>
 
 
 static
